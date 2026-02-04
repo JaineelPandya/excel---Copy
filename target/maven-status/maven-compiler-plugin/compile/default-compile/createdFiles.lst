@@ -1,3 +1,10 @@
-com\markytrics\excel\Main.class
-com\markytrics\excel\ExcelProcessor.class
+com\markytrics\excel\OpenPdfVersion.class
 com\markytrics\excel\ExcelGeneratorGUI.class
+com\markytrics\excel\FileProcessor.class
+com\markytrics\excel\Main.class
+com\markytrics\excel\QRCodeGenerator.class
+com\markytrics\excel\DocumentMetadata.class
+com\markytrics\excel\ExcelProcessor.class
+com\markytrics\excel\PDFProcessor.class
+com\markytrics\excel\DocumentProcessorDemo.class
+com\markytrics\excel\FileProcessor$1.class
